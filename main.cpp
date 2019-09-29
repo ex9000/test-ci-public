@@ -1,4 +1,4 @@
 #include <iostream>
 using namespace std;
-int main() { cout <<"Hi!";
+int main() { cout <<"Hi!" ;
 }
