@@ -26,4 +26,4 @@ std::vector<int> getVector() {
 int main() {
     vectorSort(getVector());
 }
-// 12345
+// 123456
