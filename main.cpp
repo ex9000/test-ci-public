@@ -23,7 +23,6 @@ std::vector<int> getVector() {
     }
     return newVector;
 }
-int main() {
-    vectorSort(getVector());
+int main() {vectorSort(getVector()); }
 }
-// 12345678
+// 123456789
