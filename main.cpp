@@ -3,8 +3,8 @@
 #include <iostream>
 #include <vector>
 #include <algorithm>
-void rangeBasedFor(std::vector<int> const& input) {
-    for (auto const& i : input) {
+void rangeBasedFor(std::vector<int> const &input) {
+    for (auto const &i : input) {
         std::cout << i << " ";
     }
 }
@@ -24,6 +24,6 @@ std::vector<int> getVector() {
     return newVector;
 }
 int main() {
-    vectorSort(getVector());
+	vectorSort(getVector());
 }
-// 123456
+// 1234567
