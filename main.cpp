@@ -6,9 +6,7 @@
 
 
 
-int main()
-{   
-
+int main() {
     std::vector<int> mas;
     for (int i = 0; i < 5; i++) {
         int elem;
