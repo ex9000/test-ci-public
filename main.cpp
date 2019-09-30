@@ -5,7 +5,7 @@
 using namespace std;
 
 int main() {
-    vector <int> massive;
+    vector<int> massive;
     for (int i = 0; i < 5; i++) {
         int el = 0;
         cin >> el;
