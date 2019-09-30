@@ -3,7 +3,6 @@
 #include <algorithm>
 
 int main() {
-
     std::vector<int> input = {};
 
     int temp;
@@ -14,7 +13,7 @@ int main() {
 
     std::sort(input.begin(), input.end());
     for (int i :input) {
-        std::cout << i << ' ';
+        std::cout << i;
     }
 
     return 0;
