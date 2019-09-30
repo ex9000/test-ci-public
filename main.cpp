@@ -12,7 +12,7 @@ int main() {
     }
 
     std::sort(input.begin(), input.end());
-    for (int i :input) {
+    for (int i : input) {
         std::cout << i;
     }
 
