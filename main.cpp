@@ -1,7 +1,7 @@
 #include <iostream>
 #include <vector>
 #include <algorithm>
-#include <iterator> 
+#include <iterator>
 using namespace std;
 
 int main() {
@@ -16,4 +16,4 @@ int main() {
     cout << endl;
     return 0;
 }
-//1
+// 1
